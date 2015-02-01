@@ -1,0 +1,4394 @@
+/*MAIN.CSS*/
+
+/*==========================*/
+/*ALL DEVICE OPTIMIZATION*/
+/*===========================*/
+
+/*Large Widescreen Monitors*/
+@media (min-width: 1921px) and (max-width: 3000px) {
+
+.container {
+    width: 990px !important;
+}
+
+.about-intro .intro-text {
+	padding: 120px;
+}
+
+.about-intro .intro-carousel .bgsize {
+	background-size: 80% auto !important;
+}
+
+.page-starter-container {
+	height: 500px;
+}
+
+}
+
+
+/*Large Widescreen Monitors*/
+@media (min-width: 1681px) and (max-width: 1920px) {
+
+.container {
+    width: 990px !important;
+}
+
+.about-intro .intro-text {
+	padding: 120px;
+}
+
+.about-intro .intro-carousel .bgsize {
+	background-size: 80% auto !important;
+}
+
+.page-starter-container {
+	height: 500px;
+}
+
+}
+
+
+
+
+@media (min-width: 1441px) and (max-width: 1680px) {
+
+.container {
+    width: 990px !important;
+}
+
+.about-intro .intro-text {
+	padding: 120px;
+}
+
+.about-intro .intro-carousel .bgsize {
+	background-size: 80% auto !important;
+}
+
+.page-starter-container {
+	height: 400px;
+}
+
+}
+
+
+
+
+
+@media (min-width: 1367px) and (max-width: 1440px) {
+
+.container {
+    width: 990px !important;
+}
+
+.about-intro .intro-text {
+	padding: 120px;
+}
+
+.about-intro .intro-carousel .bgsize {
+	background-size: 80% auto !important;
+}
+
+}
+
+
+
+@media (min-width: 1281px) and (max-width: 1366px) {
+
+.container {
+    width: 990px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1215px) and (max-width: 1280px) {
+
+.container {
+    width: 990px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Very Large Tablets and Medium Laptops*/
+@media (min-width: 1153px) and (max-width: 1214px) {
+
+.container {
+    width: 990px !important;
+}
+
+.section-heading h2, .section-heading h4 {
+	font-size: 56px;
+	line-height: 63px;
+}
+
+.section-subheading h3 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.other-page-heading h2 {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-heading h4 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -95px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -95px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -70px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -70px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 90px;
+	line-height: 97px;
+}
+
+.motto span {
+	font-size: 30px;
+	line-height: 37px;
+}
+
+.motto span.separator {
+	width: 8px;
+	height: 8px;
+	margin: 0px 8px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 30px;
+	line-height: 37px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 56px;
+	line-height: 63px;
+}
+
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 56px;
+	line-height: 63px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Notebooks and Small Laptops*/
+@media (min-width: 1025px) and (max-width: 1152px) {
+
+.container {
+    max-width: 990px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.section-heading h2, .section-heading h4 {
+	font-size: 46px;
+	line-height: 53px;
+}
+
+.section-subheading h3 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.other-page-heading h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-heading h4 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -20px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -20px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+#sm.menu {
+	display: none;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 80px;
+	line-height: 87px;
+}
+
+.motto span {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.motto span.separator {
+	width: 8px;
+	height: 8px;
+	margin: 0px 8px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 50px;
+	line-height: 57px;
+}
+
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin: 20px 0px 30px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 50px;
+	line-height: 57px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.st-accordion ul li > a {
+	font-size: 18px;
+}
+
+.pricing-plan {
+	padding: 12px 0px;
+}
+
+.pricing-section-container:hover .pricing-plan {
+	padding: 17px 0px;
+}
+
+
+.pre-footer-container .pre-footer-sub-heading h3 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 991px) and (max-width: 1024px) {
+
+.container {
+    width: 900px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 40px;
+	line-height: 47px;
+}
+
+.section-subheading h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.other-page-heading h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-heading h4 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -20px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -20px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+#sm.menu {
+	display: none;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 70px;
+	line-height: 77px;
+}
+
+.motto span {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 20px;
+	line-height: 27px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 44px;
+	line-height: 51px;
+}
+
+
+.home-page-testimonial-section .testimonial-img-section {
+	width: 40%;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	width: 60%;
+	padding: 40px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	font-size: 18px;
+	line-height: 25px;
+	margin: 13px 0px 20px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 44px;
+	line-height: 51px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 5px;
+}
+
+.st-accordion ul li > a {
+	font-size: 16px;
+}
+
+.pricing-plan {
+	padding: 12px 0px;
+}
+
+.pricing-section-container:hover .pricing-plan {
+	padding: 17px 0px;
+}
+
+/*Portfolio three*/
+
+.works-gallery.three-blocks #Grid .mix {
+	width: 30%;
+}
+
+/*Portfolio two*/
+
+.works-gallery.two-blocks #Grid .mix {
+	width: 47%;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+
+
+.pre-footer-container .pre-footer-sub-heading h3 {
+	font-size: 24px;
+	line-height: 31px;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*iPad Landscape Mode and Large Tablets */
+@media (min-width: 961px) and (max-width: 990px) {
+
+.container {
+    width: 900px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.mobile-sm-small-pad {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.section-subheading h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.other-page-heading h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.other-page-heading h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.other-page-heading h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border, .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -20px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -20px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+#sm.menu {
+	display: none;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 60px;
+	line-height: 67px;
+}
+
+.motto span {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.custom-mobile-value-style {
+	width: 30%;
+	float: left;
+	margin-right: 2%;
+}
+
+.custom-mobile-value-style:first-child {
+	margin-left: 3%;
+}
+
+.custom-mobile-value-style:last-child {
+	margin-right: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	width: 40%;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	width: 60%;
+	padding: 30px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	font-size: 18px;
+	line-height: 25px;
+	margin: 13px 0px 20px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 5px;
+}
+
+.st-accordion ul li > a {
+	font-size: 16px;
+}
+
+.pricing-plan {
+	padding: 11px 0px;
+}
+
+.pricing-section-container:hover .pricing-plan {
+	padding: 16px 0px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	padding: 40px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 32%;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 21%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Small Desktop and Very Small Notebook */
+@media (min-width: 801px) and (max-width: 960px) {
+.container {
+    max-width: 760px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.mobile-sm-small-pad {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.other-page-heading h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.other-page-heading h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border, .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -20px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -20px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation {
+	width: 84%;
+	margin-left: 8%;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 32px;
+	line-height: 39px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 50px;
+	line-height: 57px;
+}
+
+.motto span {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	width: 40%;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	width: 60%;
+	padding: 15px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+	margin: 13px 0px 20px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 5px;
+}
+
+.st-accordion ul li > a {
+	font-size: 16px;
+}
+
+.pricing-plan {
+	padding: 11px 0px;
+}
+
+.pricing-section-container:hover .pricing-plan {
+	padding: 16px 0px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	padding: 40px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 48%;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 26%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/*windows machine 782px*/
+@media (min-width: 768px) and (max-width: 800px) { 
+
+.container {
+    max-width: 680px !important;
+}
+
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.mobile-sm-small-pad {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.other-page-heading h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.other-page-heading h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -20px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -20px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 32px;
+	line-height: 39px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 50px;
+	line-height: 57px;
+}
+
+.motto span {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	width: 40%;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	width: 60%;
+	padding: 15px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+	margin: 13px 0px 20px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 5px;
+}
+
+.st-accordion ul li > a {
+	font-size: 16px;
+}
+
+.pricing-plan {
+	padding: 11px 0px;
+}
+
+.pricing-section-container:hover .pricing-plan {
+	padding: 16px 0px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	padding: 30px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 48%;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 29%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*iPad Portrait Mode, iPad Mini and Small Tablets */
+@media (min-width: 641px) and (max-width: 767px) {
+
+.container {
+    width: 600px !important;
+}
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.other-page-heading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-heading h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -60px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -60px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 28px;
+	line-height: 35px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 40px;
+	line-height: 47px;
+}
+
+.motto span {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	width: 40%;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	width: 60%;
+	padding: 15px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+	margin: 13px 0px 20px 0px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 3%;
+	left: 43%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 10px;
+}
+
+.st-accordion ul li > a {
+	font-size: 20px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 20px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	padding: 30px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 48%;
+
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 15%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Medium Smart Phones v2*/
+@media (min-width: 601px) and (max-width: 640px) {
+
+.container {
+    max-width: 560px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.other-page-heading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-heading h4 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -60px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -60px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.motto span {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+.home-page-service-section .divider {
+	width: 40%;
+	margin-left: 30%;
+}
+
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	float: none;
+	width: 100%;
+	height: auto;
+	padding: 60px 80px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin-bottom: 20px;
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 1%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 10px;
+}
+
+.st-accordion ul li > a {
+	font-size: 18px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 20px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	float: none;
+	width: 100%;
+	padding:20px;
+}
+
+.about-intro .intro-carousel {
+	float: none;
+	width: 100%;
+}
+
+.about-intro .intro-text {
+	padding: 60px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 47%;
+
+}
+
+/*Blog single*/
+
+.comments-wrap .comments-text-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.comments-wrap .comments-text-section h3 a {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 16%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Google Nexus and Other Large Smart Phones v1*/
+@media (min-width: 481px) and (max-width: 600px) {
+
+.container {
+    width: 440px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.other-page-heading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -75px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -75px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -60px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -60px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 22px;
+	line-height: 29px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.motto span {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.motto span.separator {
+	width: 6px;
+	height: 6px;
+	margin: 0px 6px;
+}
+
+.home-page-service-section .divider {
+	width: 40%;
+	margin-left: 30%;
+}
+
+
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	float: none;
+	width: 100%;
+	height: auto;
+	padding: 60px 80px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin-bottom: 20px;
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 1%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 34px;
+	line-height: 41px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 10px;
+}
+
+.st-accordion ul li > a {
+	font-size: 18px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 45%;
+}
+
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 34px;
+	line-height: 33px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 20px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	float: none;
+	width: 100%;
+	padding:20px;
+}
+
+.about-intro .intro-carousel {
+	float: none;
+	width: 100%;
+}
+
+.about-intro .intro-text {
+	padding: 60px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 0;
+}
+
+/*Blog single*/
+
+.comments-wrap .comments-text-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.comments-wrap .comments-text-section h3 a {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 34px;
+	line-height: 41px;
+}
+
+.pre-footer-past a.past {
+	width: 21%;
+}
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*iPhone Landscape Mode and Mediium Smart Phones*/
+@media (min-width: 361px) and (max-width: 480px) {
+
+.container {
+    width: 320px !important;
+}
+
+
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.section-subheading h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-heading h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.common-text p {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -75px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -75px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -60px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -60px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.motto span {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.motto span.separator {
+	width: 4px;
+	height: 4px;
+	margin: 0px 4px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 18px;
+	line-height: 25px;
+	padding-top: 0px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	float: none;
+	width: 100%;
+	height: auto;
+	padding: 60px 80px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin-bottom: 20px;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 1%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 26px;
+	line-height: 33px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 8px;
+}
+
+.st-accordion ul li > a {
+	font-size: 16px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 100%;
+}
+
+.works-gallery.four-blocks .custom-works-center, .works-gallery.three-blocks .custom-works-center,
+ .works-gallery.two-blocks .custom-works-center {
+	margin-left: 0;
+}
+
+.works-gallery .category div.filter {
+	font-size: 14px;
+	line-height: 21px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 26px;
+	line-height: 33px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 10px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	float: none;
+	width: 100%;
+	padding:20px;
+}
+
+.about-intro .intro-carousel {
+	float: none;
+	width: 100%;
+}
+
+.about-intro .intro-text {
+	padding: 40px;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 100%;
+	margin-right: 0;
+}
+
+/*Blog single*/
+
+.single-blog-details {
+	padding: 12px;
+}
+
+.quote-section {
+	padding: 5px;
+	padding-right: 0;
+}
+
+.blog-author .content-section .other-page-heading span.separator {
+	display: none;
+}
+
+.comments-wrap .comments-text-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.comments-wrap .comments-text-section h3 a {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 26px;
+	line-height: 33px;
+}
+
+
+/*Contact Page*/
+
+.alert-danger, .alert-error {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Other Major Small Smart Phones*/
+@media (min-width: 321px) and (max-width: 360px) {
+
+.container {
+    width: 290px !important;
+}
+
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.section-subheading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.common-text p {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev, .standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next, .standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -45px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -45px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -15px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -15px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation {
+	width: 90%;
+	margin-left: 5%;
+}
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.motto span {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.motto span.separator {
+	width: 4px;
+	height: 4px;
+	margin: 0px 4px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 16px;
+	line-height: 23px;
+	padding-top: 0px;
+	padding-bottom: 15px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin-bottom: 20px;
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 1%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 20px;
+	line-height: 27px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 4px;
+}
+
+.st-accordion ul li > a {
+	font-size: 14px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 100%;
+}
+
+.works-gallery.four-blocks .custom-works-center, .works-gallery.three-blocks .custom-works-center,
+ .works-gallery.two-blocks .custom-works-center {
+	margin-left: 0;
+}
+
+.works-gallery .category div.filter {
+	font-size: 12px;
+	line-height: 19px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 20px;
+	line-height: 27px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 10px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	float: none;
+	width: 100%;
+	padding:20px;
+}
+
+.about-intro .intro-carousel {
+	float: none;
+	width: 100%;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 100%;
+	margin-right: 0;
+}
+
+/*Blog single*/
+
+.single-blog-details {
+	padding: 12px;
+}
+
+.quote-section {
+	padding: 5px;
+	padding-right: 0;
+}
+
+.blog-author .content-section .other-page-heading span.separator {
+	display: none;
+}
+
+.comments-wrap .comments-text-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.comments-wrap .comments-text-section h3 a {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+
+/*Contact Page*/
+
+.alert-danger, .alert-error {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*iPhone Portrait Mode and Very Small Mobile Phones*/
+@media screen and (max-width: 320px) {
+.container {
+    width: 260px !important;
+}
+
+.add-top{
+	margin-top: 100px;
+}
+.add-bottom{
+	margin-bottom: 100px;
+}
+.add-top-half{
+	margin-top: 50px;
+}
+.add-bottom-half{
+	margin-bottom: 50px;
+}
+
+.add-top-quarter {
+	margin-top: 25px;
+}
+
+.add-bottom-quarter {
+	margin-bottom: 25px;
+}
+
+.pad-top{
+	padding-top: 100px;
+}
+.pad-bottom{
+	padding-bottom: 100px;
+}
+
+.pad-top-half{
+	padding-top: 50px;
+}
+.pad-bottom-half{
+	padding-bottom: 50px;
+}
+
+.mobile-no-margin-top {
+	margin-top: 0px;
+}
+
+.mobile-no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.mobile-no-padding-top {
+	padding-top: 0px;
+}
+
+.mobile-no-padding-bottom {
+	padding-bottom: 0px;
+}
+
+
+.section-heading h2, .section-heading h4 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.section-subheading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-heading h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-heading h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.other-page-sub-heading h2 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-page-sub-heading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+
+.other-page-sub-heading-light h2 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.common-text p {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+.btn-cel-light, .btn-cel-dark, .btn-cel-white, .btn-cel-white-border .btn-ticket {
+	padding: 12px 20px;
+}
+
+/*Owl pagination size*/
+
+.owl-theme .owl-controls .owl-page span {
+	width: 16px;
+	height: 16px;
+}
+
+/*Owl nav button postioning starts*/
+
+.rotative-zoom-owl-container .customNavigation a.prev,.standard-owl-container .customNavigation a.prev {
+	left: 10px;
+}
+
+.rotative-zoom-owl-container .customNavigation a.next,.standard-owl-container .customNavigation a.next {
+	right: 10px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.prev {
+	left: -25px;
+}
+
+.main-owl-cus-nav-container .customNavigation a.next {
+	right: -25px;
+}
+
+
+.five-section-custom-nav-no-page-owl-wrap a.prev {
+	left: -15px !important;
+}
+
+.five-section-custom-nav-no-page-owl-wrap a.next {
+	right: -15px !important;
+}
+
+.main-owl-cus-nav-pag-wrap a.prev {
+	left: 10px;
+}
+
+.main-owl-cus-nav-pag-wrap a.next {
+	right: 10px;
+}
+
+/*Owl nav button postioning ends*/
+
+
+.main-navigation {
+	width: 86%;
+	margin-left: 7%;
+}
+
+.main-navigation .nav-links {
+	display: none;
+}
+
+.main-navigation .logo {
+	float: none;
+	text-align: center;
+	display: block;
+}
+
+.main-navigation .logo img{
+	display: inline-block;
+}
+
+.main-owl-cus-nav-content .sub-heading span {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.main-owl-cus-nav-content .heading h1 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.motto span {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.motto span.separator {
+	width: 4px;
+	height: 4px;
+	margin: 0px 4px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-speakers-section .team-details-section .team-details-section-text p {
+	font-size: 16px;
+	line-height: 23px;
+	padding-top: 0px;
+	padding-bottom: 15px;
+}
+
+.intermediate-section-container h5 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.intermediate-section-container h3 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-img-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section {
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
+.home-page-testimonial-section .testimonial-content-section h2 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+.home-page-testimonial-section .testimonial-content-section h3 {
+	margin-bottom: 20px;
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.home-page-testimonial-section .testimonial-content-section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.one-section-custom-page-no-nav-owl .owl-pagination {
+	bottom: 1%;
+}
+
+/*Services Page*/
+
+.page-starter-container .page-starter-content h2 {
+	font-size: 20px;
+	line-height: 27px;
+	margin-bottom: 10px;
+}
+ 
+.page-starter-container .page-starter-content .motto span.text {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.video-section {
+	height: 300px;
+}
+
+.video-overlay-text {
+	display: none;
+}
+
+.tab-section .tab-button .button-name p {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.tab-section .tab-button .button-name {
+	padding: 4px;
+}
+
+.st-accordion ul li > a {
+	font-size: 14px;
+}
+
+/*Portfolio four*/
+
+.works-gallery.four-blocks #Grid .mix, .works-gallery.three-blocks #Grid .mix,
+ .works-gallery.two-blocks #Grid .mix {
+	width: 100%;
+}
+
+.works-gallery.four-blocks .custom-works-center, .works-gallery.three-blocks .custom-works-center,
+ .works-gallery.two-blocks .custom-works-center {
+	margin-left: 0;
+}
+
+.works-gallery .category div.filter {
+	font-size: 12px;
+	line-height: 19px;
+	margin-right: 5px;
+	padding: 5px;
+}
+
+.project-subheading h3 {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.other-intermediate-wrapper span.text {
+	font-size: 20px;
+	line-height: 27px;
+	display: block;
+}
+
+.other-intermediate-wrapper a {
+	margin: 0;
+	margin-top: 10px;
+}
+
+/*about page*/
+
+.about-intro .intro-text {
+	float: none;
+	width: 100%;
+	padding:20px;
+}
+
+.about-intro .intro-carousel {
+	float: none;
+	width: 100%;
+}
+
+/*Blog grid*/
+
+.masonry-wrap .msitem {
+	width: 100%;
+	margin-right: 0;
+}
+
+/*Blog single*/
+
+.single-blog-details {
+	padding: 12px;
+}
+
+.quote-section {
+	padding: 5px;
+	padding-right: 0;
+}
+
+.blog-author .content-section .other-page-heading span.separator {
+	display: none;
+}
+
+.comments-wrap .comments-text-section h3 {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+.comments-wrap .comments-text-section h3 a {
+	font-size: 12px;
+	line-height: 19px;
+}
+
+/*Error Page*/
+
+.error-text h4 {
+	font-size: 20px;
+	line-height: 27px;
+}
+
+
+/*Contact Page*/
+
+.alert-danger, .alert-error {
+	font-size: 14px;
+	line-height: 21px;
+}
+
+
+.pre-footer-container {
+	text-align: left;
+}
+
+.footer-nav {
+	text-align: center;
+}
+
+.footer-section .to-top {
+	right: -20px;
+	top: -70px;
+}
+.partners-section .item {
+margin: 20px 0 20px -20px;
+}
+
+
+
+
+}
+

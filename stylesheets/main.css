@@ -883,6 +883,11 @@ ul li {
 	position: relative;
 }
 
+.speakers-section {
+	background-image: url("../images/slideshow/speakers-group-1920x900.jpg");
+	background-size: cover;
+	position: relative;
+}
 /*Animated Home section starts FOR INDEX02*/
 
 .animated-home-section {
@@ -1462,8 +1467,13 @@ li.mobile-sub-menu .mobile-nav-toggler a {
 	position: relative;
 	margin-top: -50px;
 }
+.home-page-speakers-section .socials i:before{font-size: 18px;}
+.home-page-speakers-section .socials a{padding: 0 10px 0 0;}
+
+
+
 .speakers-page-section .speakers-content-container  .full-bio {
-    background: none repeat scroll 0 0 #fff;
+    /*background: none repeat scroll 0 0 #fff;*/
     margin: 50px auto;
     padding: 50px;
 }
@@ -1602,9 +1612,25 @@ svg.sland-bottom {
 	-ms-transition: all 0.8s;
 }
 
+.speakers-page-section .home-page-speakers-section .speakers-details-section h3{
+font-family: "Montserrat Alternates",sans-serif;
+    font-size: 16px;
+}
+.speakers-page-section .home-page-speakers-section .speakers-details-section h4{ font-size:14px; color:#949494;}
+.speakers-page-section .speakers-blocks .speakers-details-section h4 {
+    padding: 10px 20px;
+}
+.speakers-page-section .speakers-blocks .speakers-details-section .socials  span{ display:none;}
+ .speakers-blocks .home-page-speakers-section .socials a{ width: 40%;}
+.speakers-blocks .home-page-speakers-section  .socials a.twitter-handle{ float:left}
+.speakers-blocks .home-page-speakers-section  .socials a.linkedin-handle{ float:right}
+.speakers-blocks .home-page-speakers-section  .socials a.twitter-handle i::before{ margin-top: 2px;}
+ .speakers-blocks .home-page-speakers-section .socials{bottom:20px; position:absolute; width:100%}
+
 .home-page-value-section {
 	padding: 15px;
 }
+
 
 .big-value-rotative-square-container {
 	width: 200px;
@@ -3127,9 +3153,82 @@ svg.sland-bottom {
 .partners-section .item.wide img{}
 .partners-section .item.narrow img{ height:80px}
 
-/* Schedule */
-.schedule-section .event-day{padding-top: 80px;}
+/* Custom dropdown */
+.custom-dropdown {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
 
+.custom-dropdown select {
+  background-color: #2eabb0;
+  color: #fff;
+  font-size: inherit;
+  padding: .5em;
+  padding-right: 2.5em;	
+  border: 0;
+  margin: 0;
+  border-radius: 3px;
+  text-indent: 0.01px;
+  text-overflow: '';
+  -webkit-appearance: button; /* hide default arrow in chrome OSX */
+}
+
+.custom-dropdown::before,
+.custom-dropdown::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.custom-dropdown::after { /*  Custom dropdown arrow */
+  content: "\25BC";
+  height: 1em;
+  font-size: .625em;
+  line-height: 1;
+  right: 1.2em;
+  top: 50%;
+  margin-top: -.5em;
+}
+
+.custom-dropdown::before { /*  Custom dropdown arrow cover */
+  width: 2em;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 0 3px 3px 0;
+}
+
+.custom-dropdown select[disabled] {
+  color: rgba(0,0,0,.3);
+}
+
+.custom-dropdown select[disabled]::after {
+  color: rgba(0,0,0,.1);
+}
+
+.custom-dropdown::before {
+  background-color: #2eabb0;
+}
+
+.custom-dropdown::after {
+  color: rgba(0,0,0,.4);
+}
+.schedule-filter-section .custom-dropdown{ margin-bottom:10px;}
+.schedule-filter-section .custom-dropdown, .schedule-filter-section .custom-dropdown select{ width:100%}
+.schedule-filter-section .custom-dropdown option{ line-height:1.5em}
+/* Schedule */
+
+.schedule-section .event-day{padding-top: 80px;}
+.schedule-filter-section h3{ font-size:20px; padding:0 0 20px 0; margin:0}
+
+.schedule-filter-section label{
+	color: #949494;
+	font-family: "Montserrat Alternates",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+	
 .schedule-section .time{}
 .schedule-section .time h5{ color:#2eabb0; /*font-family: "benderinline";*/ font-family: "Montserrat Alternates",sans-serif; font-size:24px; font-weight:normal;}
 .schedule-section .event-spot h3{
@@ -3310,11 +3409,22 @@ svg.sland-bottom {
 
 .top-sticky{ position:fixed; top:0;  transition: all 0.4s ease-in-out 0s; z-index: 999; }
 .top-sticky.section-subheading{}
-.top-sticky.section-subheading h3{ color:#FFF; font-size: 36px; padding:0px 20px; margin-top:0; background: none repeat scroll 0 0 #2eabb0;}
+/*.top-sticky.section-subheading h3{ color:#FFF; font-size: 36px; padding:0px 20px; margin-top:0; background: none repeat scroll 0 0 #2eabb0;}*/
+   .top-sticky.section-subheading h3{ 
+   background: #2eabb0;
+   
+    color: #fff;
+    font-size: 28px;
+    line-height: 1em;
+    margin: 0;
+    padding: 10px 20px !important;
+   }
+
 
 .row.event-spot.break {
 	min-height:130px !important;
 	background:none repeat scroll 0 0 #000;
+	 background:  rgba(255, 255, 255, 0.8);
    /* border-bottom:2px dotted #e0e0e0;
 	border-left:none;
 	border-right:none;
@@ -3418,6 +3528,9 @@ svg.sland-bottom {
 .inner-section.day1 {
     padding-bottom: 80px !important;
 }
+.inner-section.day2 {
+   
+}
 /* *************************** */
 .center-block {
   display: block;
@@ -3489,4 +3602,9 @@ transition: margin 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
     text-align: center;
     top: 1px;
     transform: rotate(0deg);
+}
+
+.speakers-content-container  .speakers-details-section.text-left > h3 {
+    font-size: 24px !important;
+    padding: 0 10px 5px;
 }

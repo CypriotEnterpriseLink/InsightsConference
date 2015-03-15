@@ -1379,9 +1379,10 @@ $(window).load(function(){
 
      return false;
      });
-     
-     if (window.location.hash.length > 0)
+
+     if (window.location.hash.length > 0){
 		$( "#" +window.location.hash.substring(1) ).click();
+	}
 
 });
 $('.speakers-gallery #Grid').mixitup({

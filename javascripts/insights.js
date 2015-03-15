@@ -1007,7 +1007,7 @@ return this;};})(jQuery);
 			}, { offset: 150 });
 			//  section height calculator
 			$('.full-height').height(vH);
-			$('.half-height').height(vH/3*2.5);
+			$('.half-height').height(vH/3*2);
 		// Rotative Zoom Owl FOR 
 			$(window).load(function() {
 			  var rotcarousel = $(".rotative-zoom-owl");

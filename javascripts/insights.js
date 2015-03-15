@@ -1007,6 +1007,7 @@ return this;};})(jQuery);
 			}, { offset: 150 });
 			//  section height calculator
 			$('.full-height').height(vH);
+			$('.half-height').height(vH/3*2.5);
 		// Rotative Zoom Owl FOR 
 			$(window).load(function() {
 			  var rotcarousel = $(".rotative-zoom-owl");
@@ -1236,6 +1237,7 @@ return this;};})(jQuery);
 					//$('.home-main-button').removeClass('bottom-sticky');
 				}
 			}, { offset: 50 });
+			
 		
 			$('.home-section').waypoint(function (event, direction) {
 				if (direction === 'up') {
@@ -1244,8 +1246,60 @@ return this;};})(jQuery);
 				}else{
 				}
 			}, { offset: 50 });
+			
+			
+			$('.inner-section.day1').waypoint(function (event, direction) {
+				//If the user scrolls to the 'date title ' button execute this function
+				
+				//if the user scroll down to the button ADD class 'bottom-sticky'
+				if (direction === 'down') {
+					console.log("direction down day1")
+					$('.day1 .section-subheading').addClass('top-sticky');
+					
+					
+				}
+				//if the user scroll up to the button REMOVE class 'bottom-sticky'
+				else {
+					console.log("direction up day1")
+					$('.day1 .section-subheading').addClass('top-sticky');
+					$('.day2 .section-subheading').removeClass('top-sticky');
+				}
+			}, { offset: 0 });
+			
+			$('.inner-section.day2').waypoint(function (event, direction) {
+				//If the user scrolls to the 'date title ' button execute this function
+				
+				//if the user scroll down to the button ADD class 'bottom-sticky'
+				if (direction === 'down') {
+					console.log("direction down day2")
+					
+					$('.day1 .section-subheading').removeClass('top-sticky');
+					$('.day2 .section-subheading').addClass('top-sticky');
+				}
+				//if the user scroll up to the button REMOVE class 'bottom-sticky'
+				else if (direction === 'up')  {
+					console.log("direction up day2")
+					$('.day1 .section-subheading').addClass('top-sticky');
+					$('.day2 .section-subheading').removeClass('top-sticky');
+				}
+			}, { offset: 50 });
+			$('#insights-schedule').waypoint(function (event, direction) {
+				if (direction === 'up') {
+					console.log("direction up")
+					$('.day1 .section-subheading').removeClass('top-sticky');
+				}
+			}, { offset: 0 });
+			$('#partners').waypoint(function (event, direction) {
+				if (direction === 'down') {
+					console.log("direction down")
+					$('.day2 .section-subheading').removeClass('top-sticky');
+				}else{
+					$('.day2 .section-subheading').addClass('top-sticky');
+				}
+			}, { offset: 0 });
 		
 	});
+	
 	// $(function ($)  : ends
 })();
 //  wrapper $(function ($)  : ends
@@ -1282,6 +1336,7 @@ $(document).ready(function (){
 	 }	 
 	});	
 });
+
 
 
 

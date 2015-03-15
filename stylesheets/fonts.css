@@ -544,4 +544,4 @@
 .icon-diamond:before { content: '\e9ae'; } /* '' */
 .icon-t-shirt:before { content: '\e9af'; } /* '' */
 .icon-wallet:before { content: '\e9b0'; } /* '' */
-
+*{ -webkit-font-smoothing: antialiased;}

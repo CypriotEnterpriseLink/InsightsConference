@@ -170,6 +170,10 @@ li.sub-menu > ul li:hover {
 .section-subheading h3 {
 	color: #949494;
 }
+.day1 .section-subheading h3, .day2 .section-subheading h3 {
+	color: #fff;/*#949494;*/
+}
+
 
 .common-text p {
 	color: #6e6e6e;
@@ -231,24 +235,24 @@ li.sub-menu > ul li:hover {
 	background: #fff;
 }
 
-.home-page-works-section .works-details-section h3 {
+.home-page-speakers-section .speakers-details-section h3 {
 	color: #000;
 }
 
-.home-page-works-section .works-details-section h3:after {
+.home-page-speakers-section .speakers-details-section h3:after {
 	background: #fff;
 }
 
-.home-page-works-section .works-details-section {
+.home-page-speakers-section .speakers-details-section {
 	border-right: 1px solid #E0E0E0;
 	background: #fff;
 }
 
-.home-page-works-section:hover .works-details-section {
+.home-page-speakers-section:hover .speakers-details-section {
 	background: #2eabb0;
 }
 
-.home-page-works-section:hover .works-details-section h3:after {
+.home-page-speakers-section:hover .speakers-details-section h3:after {
 	background: #2eabb0;
 }
 
@@ -393,15 +397,15 @@ li.sub-menu > ul li:hover {
 	background: #2eabb0;
 }
 
-.portfolio-section {
-	background: #FAFAFA;
+.speakers-page-section {
+	background: none repeat scroll 0 0 #1c1c1c;
 }
 
-.works-gallery .category div.filter {
+.speakers-gallery .category div.filter {
 	background: #fff;
 }
 
-.works-gallery .category div.filter.active,.works-gallery .category div.filter:hover {
+.speakers-gallery .category div.filter.active,.speakers-gallery .category div.filter:hover {
 	background: #2eabb0;
 }
 
@@ -710,3 +714,17 @@ li.sub-menu > ul li:hover {
 }
 
 .transparent-section .inner-section{background:rgba(0, 0, 0, 0.8)-light}
+
+
+/* schedule */
+.workshop p{ background:#025779}
+.skill-lab p{ background: #017377}
+ .lecture p{ background: #e00743;/*#e41c53*/}
+.discussion p{ background: #025779}
+.paneld p{ background: #d85638}
+
+.workshop i:before{ color:#025779}
+.skill-lab i:before{ color: #017377}
+.lecture i:before{ color: #e00743}
+.discussion i:before{ color: #025779}
+.paneld i:before{ color: #d85638}

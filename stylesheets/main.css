@@ -884,7 +884,8 @@ ul li {
 }
 
 .speakers-section {
-	background-image: url("../images/slideshow/speakers-group-1920x900.jpg");
+	background-image: url("../images/slideshow/speakers-julia-1920x900.jpg");
+	background-position:center center;
 	background-size: cover;
 	position: relative;
 }

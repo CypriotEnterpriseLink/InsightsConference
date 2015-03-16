@@ -229,6 +229,10 @@ li.sub-menu > ul li:hover {
 	 min-height: 120px;
  }
 
+ .home-page-speakers-section:hover .team-details-section .team-details-section-text p{
+ 	 	color: #949494 !important;
+ }
+
  .home-page-speakers-section .team-img-section .team-hover-content {
  	background: #2eabb0-semi-trans;
  }

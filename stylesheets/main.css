@@ -882,6 +882,11 @@ ul li {
 	background-size: cover;
 	position: relative;
 }
+.team-section {
+	background-image: url("../images/slideshow/team-1920x900.jpg");/*http://placehold.it/1920x1440*/
+	background-size: cover;
+	position: relative;
+}
 
 .speakers-section {
 	background-image: url("../images/slideshow/speakers-julia-1920x900.jpg");
@@ -1466,7 +1471,7 @@ li.mobile-sub-menu .mobile-nav-toggler a {
 	background: transparent;
 	overflow: hidden;
 	position: relative;
-	margin-top: -50px;
+	/*margin-top: -50px;*/
 }
 .home-page-speakers-section .socials i:before{font-size: 18px;}
 .home-page-speakers-section .socials a{padding: 0 10px 0 0;}
@@ -3608,4 +3613,13 @@ transition: margin 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
 .speakers-content-container  .speakers-details-section.text-left > h3 {
     font-size: 24px !important;
     padding: 0 10px 5px;
+}
+
+.team-page-section .speakers-blocks .home-page-speakers-section .socials a.twitter-handle {
+    float: none;
+}
+
+.team-details-section {
+    min-height: 10.5em !important;
+    position: relative;
 }

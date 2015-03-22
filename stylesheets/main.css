@@ -1471,7 +1471,7 @@ li.mobile-sub-menu .mobile-nav-toggler a {
 	background: transparent;
 	overflow: hidden;
 	position: relative;
-	/*margin-top: -50px;*/
+	margin-top: -50px;
 }
 .home-page-speakers-section .socials i:before{font-size: 18px;}
 .home-page-speakers-section .socials a{padding: 0 10px 0 0;}

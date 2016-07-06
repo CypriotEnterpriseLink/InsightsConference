@@ -281,7 +281,7 @@ ul li {
 	text-decoration: none;
 	padding: 12px 35px;
 	font-size: 24px;
-	line-height: 21px;
+	line-height: 28px;
 	text-transform: uppercase;
 	border:none !important;
 	font-family: 'Montserrat Alternates', sans-serif; 
@@ -292,8 +292,12 @@ ul li {
 		-ms-transition: all .4s ease-in-out;
 		 -o-transition: all .4s ease-in-out;
 			transition: all .4s ease-in-out;
+	/*width: 350px;
+    display: inline-block;
+    white-space: initial;*/
 	}
-	
+/*	.btn-ticket b{ font-weight:normal;font-size:28px; display:block
+	}*/
 .btn-ticket:hover{
 	border-radius: 0;
 	-webkit-transition: all .4s ease-in-out;
@@ -873,7 +877,7 @@ ul li {
 /*Home Page*/
 
 .home-section {
-	background-image: url("../images/slideshow/home-1920x1440.jpg");/*http://placehold.it/1920x1440*/
+	background-image: url("../images/slideshow/main-image.jpg");/*http://placehold.it/1920x1440*/
 	background-size: cover;
 	position: relative;
 }
@@ -3474,7 +3478,7 @@ font-family: "Montserrat Alternates",sans-serif;
     margin-top: 5px;} /* 'î¡„' */
 
 .startup-world i::before {
-    content: "";
+    content: "";
     margin-left: 8px;
     margin-top: 1px;
     transform: rotate(0deg);
@@ -3519,7 +3523,7 @@ font-family: "Montserrat Alternates",sans-serif;
 
 
 .entrepreneurial-environments i::before {
-    content: "";
+    content: "";
     margin-left: 11px;
     margin-top: 0px;
 	transform: rotate(45deg);

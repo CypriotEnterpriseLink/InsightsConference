@@ -1,0 +1,9 @@
+
+.parallax-layer{
+    background: url('../images/bg/01.jpg') 50% 0 no-repeat fixed;
+}
+/*this class will be activated on mobile devices in order to switch off the parallax effect*/
+.parallax-off {
+	background-attachment:scroll !important;
+	background-size:cover !important;
+}

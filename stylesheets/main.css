@@ -1158,7 +1158,7 @@ ul li {
 
 .home-main-button {
 	position: absolute;
-	bottom: 95px;
+	bottom: 85px;
 	left: 50%;
 	transform: translateX(-50%);
 	-moz-transform: translateX(-50%);
